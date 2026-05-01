@@ -100,7 +100,7 @@
     {
       "id": 13,
       "title": "Challenge 5 - Todo List with DOM",
-      "description": "Tentukan opsi browser / CLI",
+      "description": "Tentukan opsi browser / CLI, refactor code aja udh mumet, gemana inheritance dan static, semoga bisa next time",
       "completed": false,
       "createdAt": "2026-04-15T08:00:00",
       "deadline": "2026-05-01T23:59:00"
