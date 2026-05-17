@@ -84,7 +84,7 @@
     {
       "id": 11,
       "title": "Challenge 3 - Replica Figma with Tailwind (No Traditional CSS)",
-      "description": "Seperti challenge-2 tapi harus dengan tailwind css, ternyata salah proses, harus gunakan live server!",
+      "description": "Seperti challenge-2 tapi harus dengan tailwind css, harus gunakan live server!",
       "completed": false,
       "createdAt": "2026-03-22T08:00:00",
       "deadline": "2026-04-10T23:59:00"
@@ -190,7 +190,7 @@
     {
       "id": "2613111",
       "title": "Challenge 3 - Replica Figma with Tailwind (No Traditional CSS)",
-      "description": "Seperti challenge-2 tapi harus dengan tailwind css, ternyata salah proses, harus gunakan live server!",
+      "description": "Seperti challenge-2 tapi harus dengan tailwind css, harus gunakan live server!",
       "completed": false,
       "deadline": "2026-03-22T08:00:00",
       "createdAt": "2026-04-10T23:59:00"
